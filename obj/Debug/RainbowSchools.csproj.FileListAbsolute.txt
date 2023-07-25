@@ -1,0 +1,16 @@
+D:\Simplilearn classes\day9\RainbowSchools\RainbowSchools\bin\Debug\RainbowSchools.exe.config
+D:\Simplilearn classes\day9\RainbowSchools\RainbowSchools\bin\Debug\RainbowSchools.exe
+D:\Simplilearn classes\day9\RainbowSchools\RainbowSchools\bin\Debug\RainbowSchools.pdb
+D:\Simplilearn classes\day9\RainbowSchools\RainbowSchools\obj\Debug\RainbowSchools.csproj.AssemblyReference.cache
+D:\Simplilearn classes\day9\RainbowSchools\RainbowSchools\obj\Debug\RainbowSchools.csproj.SuggestedBindingRedirects.cache
+D:\Simplilearn classes\day9\RainbowSchools\RainbowSchools\obj\Debug\RainbowSchools.csproj.CoreCompileInputs.cache
+D:\Simplilearn classes\day9\RainbowSchools\RainbowSchools\obj\Debug\RainbowSchools.exe
+D:\Simplilearn classes\day9\RainbowSchools\RainbowSchools\obj\Debug\RainbowSchools.pdb
+D:\Simplilearn classes\Project\RainbowSchools\RainbowSchools\bin\Debug\RainbowSchools.exe.config
+D:\Simplilearn classes\Project\RainbowSchools\RainbowSchools\bin\Debug\RainbowSchools.exe
+D:\Simplilearn classes\Project\RainbowSchools\RainbowSchools\bin\Debug\RainbowSchools.pdb
+D:\Simplilearn classes\Project\RainbowSchools\RainbowSchools\obj\Debug\RainbowSchools.csproj.AssemblyReference.cache
+D:\Simplilearn classes\Project\RainbowSchools\RainbowSchools\obj\Debug\RainbowSchools.csproj.SuggestedBindingRedirects.cache
+D:\Simplilearn classes\Project\RainbowSchools\RainbowSchools\obj\Debug\RainbowSchools.csproj.CoreCompileInputs.cache
+D:\Simplilearn classes\Project\RainbowSchools\RainbowSchools\obj\Debug\RainbowSchools.exe
+D:\Simplilearn classes\Project\RainbowSchools\RainbowSchools\obj\Debug\RainbowSchools.pdb
